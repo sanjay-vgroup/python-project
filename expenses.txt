@@ -1,0 +1,3 @@
+2025-06-25,100.0,Food for breakfast,Food
+2025-06-26,100.0,lunch,food
+2025-06-26,20.0,Went to delhi,Transport
